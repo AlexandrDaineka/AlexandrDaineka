@@ -1,16 +1,15 @@
-### Hi there 👋
+### About me
+Меня зовут Александр Дайнека. В начале 2024 года заканчиваю обучение по профессии "Java-разработчик с нуля" в Нетологии.  В рамках учебного процесса, помимо текущих заданий, защитил курсовую работу по теме "Сетевой чат". 
+Занимаюсь дополнительно самобразованием на интернет-платформе JuvaRush и CodeWars
+По своему основному образованию работал таможенным инспектором, занмался проеркой документов на самолеты и их экипаж, занимался составлением ежидневных отчетов, следил за исправностью работы технического оборудования.
 
-<!--
-**AlexandrDaineka/AlexandrDaineka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### References to works
+#### курсовая работа "Сетевой чат"
+(https://github.com/AlexandrDaineka/-oonline_chat)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts
+[ ![WhatsApp](https://img.shields.io/badge/whatsapp-85877C?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=89500490080)
+[ ![Telegram](https://img.shields.io/badge/telegram-85877C?style=for-the-badge&logo=telegram)](https://t.me/Daineka_alex)
+[ ![Vk](https://img.shields.io/badge/vk-85877C?style=for-the-badge&logo=vk&logoColor=0950F4)](
+https://vk.com/dainekaa)
