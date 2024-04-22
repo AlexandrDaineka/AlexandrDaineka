@@ -28,6 +28,7 @@ https://vk.com/dainekaa)
 ![GIT](https://img.shields.io/badge/GIT-04859D?style=for-the-badge&logo=git)
 
 ### My certificates
+![Джава разработчик_page-0001](https://github.com/AlexandrDaineka/AlexandrDaineka/assets/126582500/214247b1-90f2-40b2-ba27-b731b6fa06fc)
 ![Spring Boot, deployment и инфраструктура_page-0001](https://github.com/AlexandrDaineka/AlexandrDaineka/assets/126582500/589c2426-d3c6-4129-a699-867ba356f5e1)
 ![javaCore_page-0001](https://github.com/AlexandrDaineka/AlexandrDaineka/assets/126582500/57eae3f1-6346-4672-a791-e4276d3f5d87)
 ![SQL_page-0001](https://github.com/AlexandrDaineka/AlexandrDaineka/assets/126582500/0fb6b638-41ac-4baf-a74a-a5468dec2b9b)
