@@ -30,6 +30,7 @@ https://vk.com/dainekaa)
 ### My certificates
 ![Spring Boot, deployment и инфраструктура_page-0001](https://github.com/AlexandrDaineka/AlexandrDaineka/assets/126582500/589c2426-d3c6-4129-a699-867ba356f5e1)
 ![javaCore_page-0001](https://github.com/AlexandrDaineka/AlexandrDaineka/assets/126582500/57eae3f1-6346-4672-a791-e4276d3f5d87)
+![SQL_page-0001](https://github.com/AlexandrDaineka/AlexandrDaineka/assets/126582500/0fb6b638-41ac-4baf-a74a-a5468dec2b9b)
 ![Git_page-0001](https://github.com/AlexandrDaineka/AlexandrDaineka/assets/126582500/f6b90741-ef06-40c4-8109-939d1879685f)
 ![Web, Spring   Spring MVC_page-0001](https://github.com/AlexandrDaineka/AlexandrDaineka/assets/126582500/65ddc095-13ce-45a0-8327-102fef19070c)
 ![Алгоритмы и структуры данных_page-0001](https://github.com/AlexandrDaineka/AlexandrDaineka/assets/126582500/53bc8596-2136-4ea5-8ba3-7921fce0f9f3)
