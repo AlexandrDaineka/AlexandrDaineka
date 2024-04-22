@@ -4,6 +4,8 @@
 ### References to works
 #### курсовая работа "Сетевой чат"
 (https://github.com/AlexandrDaineka/-oonline_chat)
+#### дипломная работа "Облачное хранилище"
+https://github.com/AlexandrDaineka/DiplomaStorageCloud
 
 
 ### Contacts
